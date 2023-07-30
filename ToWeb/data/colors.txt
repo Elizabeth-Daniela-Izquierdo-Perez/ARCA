@@ -1,0 +1,6 @@
+Azul:173770
+Gris:E0E0E0
+Blanco:FFFFFF
+Negro:000000
+
+*NOTA*: Los Textos de contenidos que no son los titulos son de color negro con una opacidad de un 10%
