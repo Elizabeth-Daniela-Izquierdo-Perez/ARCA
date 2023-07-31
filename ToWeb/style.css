@@ -244,6 +244,7 @@ ul{
         font-size: 20px;
         font-family: 'Roboto', sans-serif;
         line-height: 1.5;
+        color: rgba(rgb(0, 0, 0), rgb(0, 0, 0), rgb(0, 0, 0), .1);
     }
 
    .imagen-movile{
@@ -454,6 +455,7 @@ ul{
          font-family: 'Roboto', sans-serif;
          font-size: 30px;
          margin: 30px;
+         color: rgba(rgb(0, 0, 0), rgb(0, 0, 0), rgb(0, 0, 0), .1);
     }
 
     .portada-main{
