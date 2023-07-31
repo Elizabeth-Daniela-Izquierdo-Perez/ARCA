@@ -1,7 +1,0 @@
-Faltan los Iconos de las redes sociales y los de el BurgerMenu
-los envio luego porque tengo que redimensionarlos para que esten
-iguales.
-
-En la carperta Img te separe las imagenes movile y las desktop ya a la escala
-por si prefieres trabajar con ellas asi, si prefieres redimensionar las de desktop 
-con css esta bien igual.
