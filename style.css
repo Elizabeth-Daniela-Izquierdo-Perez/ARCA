@@ -559,11 +559,17 @@ ul{
     .flex1{
         flex-wrap: wrap;
         justify-content: center;
+        align-content: center;
     }
 
     .flex2{
         flex-wrap: wrap-reverse;
         justify-content: center;
+        align-content: center;
+    }
+
+    .flex img {
+        margin: 0;
     }
 
 }
