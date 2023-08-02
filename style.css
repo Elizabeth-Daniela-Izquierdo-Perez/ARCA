@@ -184,7 +184,7 @@ ul{
     padding: 20px;
    }
 
-@media (max-width:390px){
+@media (max-width:400px){
     .nav__logo{
         position: absolute;
         height: 55px;
@@ -372,7 +372,7 @@ ul{
    }
 }
 
-@media (min-width: 391px){
+@media (min-width: 401px){
 
     .nav__logo{
          position: absolute;
@@ -555,7 +555,7 @@ ul{
    }
 }
 
-@media (max-width: 1000px) and (min-width: 390px){
+@media (max-width: 1000px) and (min-width: 401px){
     .flex1{
         flex-wrap: wrap;
         justify-content: center;
