@@ -555,7 +555,7 @@ ul{
    }
 }
 
-@media (max-width: 1000px){
+@media (max-width: 1000px) and (min-width: 390px){
     .flex1{
         flex-wrap: wrap;
         justify-content: center;
