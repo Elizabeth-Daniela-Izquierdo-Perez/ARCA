@@ -12,6 +12,7 @@
 
 body{
     background-color: var(--gris);
+    margin: 0;
 }
 
 a:link{
@@ -182,6 +183,7 @@ ul{
    .main__article{
     position: relative;
     padding: 20px;
+    overflow: hidden;
    }
 
 @media (max-width:400px){
@@ -276,6 +278,7 @@ ul{
     filter: grayscale(0.9);
     opacity: 0.4;
     rotate: 75deg;
+    object-fit: cover;
 }
 
 .perrohuella{
@@ -290,6 +293,8 @@ ul{
     opacity: 0.3;
     rotate: 35deg;
     width: 180px;
+    object-fit: cover;
+    overflow: hidden;
 }
 
 
@@ -302,6 +307,8 @@ ul{
     filter: grayscale(0.9);
     opacity: 0.4;
     rotate: 75deg;
+    object-fit: cover;
+    overflow: hidden;
 }
 
 .perrohuella2{
@@ -313,6 +320,8 @@ ul{
     rotate: -70deg;
     bottom: 0;
     right: 25vw;
+    object-fit: cover;
+    overflow: hidden;
 }
 
    .main__article:last-child p{
@@ -404,6 +413,8 @@ ul{
         filter: grayscale(1);
         opacity: 0.4;
         rotate: 70deg;
+        object-fit: cover;
+        overflow: visible;
     }
 
     .perrohuella{
@@ -415,6 +426,8 @@ ul{
         rotate: -60deg;
         right: 2vw;
         bottom: 10vh;
+        object-fit: cover;
+        overflow: visible;
     }
 
     .unahuella2{
@@ -511,21 +524,29 @@ ul{
       .div__social-icon:first-child img{
            width: 6vw;
            margin: 5vh 5vw;
+           object-fit: cover;
+           overflow: hidden;
        }
    
        .div__social-icon:nth-child(2) img{
            width: 7vw;
            margin: 6vh 6vw;
+           object-fit: cover;
+           overflow: hidden;
        }
    
       .div__social-icon:nth-child(3) img{
            width: 7vw;
            margin: 6vh 6vw;
+           object-fit: cover;
+           overflow: hidden;
        }
    
       .div__social-icon:nth-child(4) img{
            width: 6vw;
            margin: 5vh 5vw;
+           object-fit: cover;
+           overflow: hidden;
        }
 
       footer{
