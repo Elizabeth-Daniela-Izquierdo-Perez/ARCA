@@ -414,19 +414,19 @@ header{
 
 
 #sobre-nosotros{
-    scroll-margin: 120px;
+    scroll-margin: 30px;
 }
 
 #objetivos{
-    scroll-margin: 120px;
+    scroll-margin: 30px;
 }
 
 #apoyanos{
-    scroll-margin: 120px;
+    scroll-margin: 30px;
 }
 
 #contacto{
-    scroll-margin: 120px;
+    scroll-margin: 30px;
 }
 
     .main__article:first-child{
