@@ -77,7 +77,7 @@ ul{
 }
 
 .checkbox:checked ~ .li__container{
-    top: 70px;
+    top: 75px;
     opacity: 1;
     transition-property: opacity ;
     transition-duration: 0.3s;
