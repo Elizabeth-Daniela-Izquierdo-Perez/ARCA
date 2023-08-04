@@ -116,7 +116,7 @@ ul{
     width: 60%;
     background-color: var(--azul);
     opacity: 0;
-    height: 844px;
+    height: 100vh;
 
 }
 
@@ -144,8 +144,8 @@ ul{
 }
 
 .nav__social:nth-child(4) img{
-    width: 8vw;
-    height: 9vh;
+    width: 10vw;
+    height: 8vh;
 }
 
 
@@ -176,18 +176,16 @@ ul{
        margin-top: 50px;
    }
    
+   
    .movile__item:nth-child(4){
        margin-top: 50px;
-   }
-
-   main{
-     z-index: 50;
    }
 
    .main__article{
     position: relative;
     padding: 20px;
     overflow: hidden;
+    z-index: 50;
    }
 
 @media (max-width:400px){
@@ -355,7 +353,7 @@ ul{
     }
 
    .div__social-icon:nth-child(4) img{
-        width: 12vw;
+        width: 15vw;
         margin: 2vh 2vw;
     }
 
@@ -547,7 +545,7 @@ ul{
        }
    
       .div__social-icon:nth-child(4) img{
-           width: 6vw;
+           width: 8vw;
            margin: 5vh 5vw;
            object-fit: cover;
            overflow: hidden;
