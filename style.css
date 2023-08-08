@@ -195,7 +195,7 @@ header{
     z-index: 50;
    }
 
-@media (max-width:400px){
+@media (max-width:600px){
     .nav__logo{
         position: absolute;
         height: 55px;
@@ -273,8 +273,9 @@ header{
     }
 
    .imagen-movile{
-    display: block;
-    margin: auto;
+    display: inline-block;
+    width: 80vw;
+    object-fit: cover;
    }
 
    .imagen-desktop{
@@ -355,6 +356,8 @@ header{
    .flex{
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
    } 
 
@@ -404,7 +407,7 @@ header{
    }
 }
 
-@media (min-width: 401px){
+@media (min-width: 601px){
 
     .nav__logo{
          position: absolute;
